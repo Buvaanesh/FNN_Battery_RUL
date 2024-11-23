@@ -85,10 +85,6 @@ print(f"Mean Absolute Error (MAE): {mae:.2f}")
 print(f"R-squared (R²): {r2:.2f}")
 print(f"Explained Variance Score: {explained_var:.2f}")
 
-# Save the model
-model.save('feedforward_rul_prediction_model_with_scheduler.h5')
-print("Model saved as 'feedforward_rul_prediction_model_with_scheduler.h5'")
-
 # Plot Training and Validation Loss
 import matplotlib.pyplot as plt
 
