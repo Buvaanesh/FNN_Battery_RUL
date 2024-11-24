@@ -18,13 +18,18 @@ Dataset compiling credits: https://github.com/ignavinuales/Battery_RUL_Predictio
       - **Mean Absolute Error (MAE)**: 4.59
       - **R-squared (R²)**: 1.00
       - **Explained Variance Score**: 1.00
-
+<p align="center">
+  <img src="https://github.com/Buvaanesh/FNN_Battery_RUL/blob/main/Validation%20Loss%20-%20FNN.png" width="600" height="400">
+</p>
     
   3. `Optuna_and_FNN.py`: This script is an enhanced version of the FNN model, which incorporates Optuna for hyperparameter optimization. The hyperparameter search yields improved results:
       - **Mean Squared Error (MSE)**: 71.93
       - **Mean Absolute Error (MAE)**: 4.64
       - **R-squared (R²)**: 1.00
       - **Explained Variance Score**: 1.00
+<p align="center">
+  <img src="https://github.com/Buvaanesh/FNN_Battery_RUL/blob/main/Validation%20Loss%20-%20Optuna%20and%20FNN.png"  width="600" height="400">
+</p>
 
 # Installation
 
