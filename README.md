@@ -1,4 +1,4 @@
-# Li-ion Battery Performance Prediction
+# Feedforward Neural Network - Battery RUL Prediction
 
 This repository contains a collection of codes for predicting the performance of Li-ion batteries based on charge and discharge cycle data. The dataset is obtained from an open-source website and includes cycle data from 14 different Li-ion batteries under constant voltage and constant current (CV-CC) conditions.
 
