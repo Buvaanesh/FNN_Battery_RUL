@@ -5,8 +5,6 @@ This repository contains a collection of codes for predicting the performance of
 # Project Structure
 
 **Dataset**: The dataset includes the charge and discharge cycle data for 14 Li-ion batteries, which is clubbed into a single dataset.
-
-Dataset compiling credits: https://github.com/ignavinuales/Battery_RUL_Prediction
   
 **Code Files**:
   1. `Feature_Extraction.py`: This script extracts statistical features like Standard Deviation (Std), Skewness, and Kurtosis from the given battery cycle data. 
@@ -54,5 +52,7 @@ Thank you for checking out this project!
 
 *Happy coding!* 🚀
 
+---
+Dataset compiling credits: https://github.com/ignavinuales/Battery_RUL_Prediction
 
 
