@@ -14,14 +14,15 @@ Dataset compiling credits: https://github.com/ignavinuales/Battery_RUL_Predictio
   
   2. `FNN.py`: This is a feedforward neural network (FNN) implementation that uses manual hyperparameter tuning. The network consists of 6 layers and yields 
       impressive results, specifically:
-      - **Mean Squared Error (MSE)**: 57.88
-      - **Mean Absolute Error (MAE)**: 4.95
+      - **Mean Squared Error (MSE)**: 53.66
+      - **Mean Absolute Error (MAE)**: 4.59
       - **R-squared (R²)**: 1.00
       - **Explained Variance Score**: 1.00
+
     
   3. `Optuna_and_FNN.py`: This script is an enhanced version of the FNN model, which incorporates Optuna for hyperparameter optimization. The hyperparameter search yields improved results:
-      - **Mean Squared Error (MSE)**: 47.88
-      - **Mean Absolute Error (MAE)**: 3.95
+      - **Mean Squared Error (MSE)**: 71.93
+      - **Mean Absolute Error (MAE)**: 4.64
       - **R-squared (R²)**: 1.00
       - **Explained Variance Score**: 1.00
 
